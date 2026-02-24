@@ -1,4 +1,4 @@
-# Next.js Application
+# Next.js Application on Vercel
 
 Complete Next.js application with CI/CD pipeline.
 
