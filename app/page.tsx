@@ -6,10 +6,10 @@ export default function Home() {
       <div className="max-w-4xl w-full space-y-8 text-center">
         <div className="space-y-4">
           <h1 className="text-6xl font-bold text-gray-900">
-            Welcome to <span className="text-blue-600">Next.js</span>
+            Welcome to <span className="text-blue-600">Sowmiya App</span>
           </h1>
           <p className="text-xl text-gray-600">
-            A complete Next.js application with CI/CD pipeline
+            Built by Kohlidevops - Auto-deployed from GitHub! 🚀
           </p>
         </div>
 
